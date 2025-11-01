@@ -1,0 +1,47 @@
+[
+  {
+    "ID": "S001",
+    "Name": "Alice Johnson",
+    "Marks": {
+      "Math": 92,
+      "Physics": 85,
+      "Chemistry": 88
+    }
+  },
+  {
+    "ID": "S002",
+    "Name": "Bob Williams",
+    "Marks": {
+      "Math": 75,
+      "Physics": 88,
+      "Chemistry": 79
+    }
+  },
+  {
+    "ID": "S003",
+    "Name": "Clara Davis",
+    "Marks": {
+      "Math": 95,
+      "Physics": 90,
+      "Chemistry": 94
+    }
+  },
+  {
+    "ID": "S004",
+    "Name": "David Lee",
+    "Marks": {
+      "Math": 68,
+      "Physics": 72,
+      "Chemistry": 65
+    }
+  },
+  {
+    "ID": "S005",
+    "Name": "Eva Rodriguez",
+    "Marks": {
+      "Math": 88,
+      "Physics": 84,
+      "Chemistry": 91
+    }
+  }
+]
